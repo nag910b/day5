@@ -1,0 +1,9 @@
+Customer_ID,Customer_Name,Date_of_Birth,City,Segment,Risk_Category
+C001,Amit Sharma,15-MAY-90,Pune,Retail,LOW
+C002,Priya Mehta,20-AUG-88,Mumbai,Premium,LOW
+C003,Rahul Verma,10-FEB-92,Delhi,Retail,MEDIUM
+C004,Sneha Patil,22-NOV-85,Pune,Premium,LOW
+C005,Arjun Rao,17-MAR-95,Bangalore,Retail,HIGH
+C006,Neha Kapoor,12-JUL-91,Mumbai,Retail,MEDIUM
+C007,Vikram Singh,25-JAN-87,Delhi,Premium,HIGH
+C008,Riya Shah,18-SEP-94,Pune,Retail,LOW
